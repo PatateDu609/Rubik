@@ -1,0 +1,6 @@
+/cmake-build-*
+/.idea
+geometry_generator*
+
+stats.py
+table*
